@@ -2,5 +2,5 @@
 
 A small mod for Factorio game that adds a new entity: the small wooden chest
 
-![Screenshot](../master/screenshot.jpg)
+![Screenshot](screenshot.jpg)
 
