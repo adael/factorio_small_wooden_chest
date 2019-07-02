@@ -1,11 +1,11 @@
 {
     "name": "small-wooden-chest",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Small wooden chest",
     "author": "Carlos Gant",
     "contact": "adaelxp@gmail.com",
     "homepage": "",
     "description": "Adds small wooden chest with less capacity than normal wooden chests and just a bit cheaper",
-    "dependencies": ["base >= 0.16.0"],
-    "factorio_version":"0.16"
+    "dependencies": ["base >= 0.17.0"],
+    "factorio_version":"0.17"
 }
